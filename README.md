@@ -33,11 +33,7 @@ The data to be tested in this project is scraped from 91mobiles.com
 
 - Programming language: Python
 - Includes libraries:
-    - sklearn.model_selection
-    - statsmodels.api
-    - sklearn.metrics
-    - statsmodels.formula.api
-    - sklearn.linear_model
+    - sklearn
     - Pandas
     - Numpy
     - Seaborn
